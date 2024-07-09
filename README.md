@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am passionate about web development specialising in Junior Front-End Development. I am skilled in HTML CSS and Javascript. Using modern front-end frameworks, I crete responsive and dynamic web applications. Welcome to my GitHub profile. 
+
 
 <!--
 **Haychmo/Haychmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
