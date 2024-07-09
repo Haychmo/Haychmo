@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 Porfolio Links
 Skills 
-HTML CSS JAVASCRIPT GITHUB BOOTSRAP
+HTML5 CSS3 Javascript Git GitHub Bootstrap
